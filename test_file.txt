@@ -1,1 +1,2 @@
 we will commit this file to a new_branch
+now test_file.txt on the master branch as well, we have modified it a little bit
