@@ -1,1 +1,3 @@
 In this folder I saved exercises and coursework for the course Manage your code with Git and GitHub. 
+File List:
+git_p2_activity.txt: the file contains the exercise for the part II of the course
