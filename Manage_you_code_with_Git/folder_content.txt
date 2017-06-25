@@ -1,0 +1,1 @@
+In this folder I saved exercises and coursework for the course Manage your code with Git and GitHub. 
