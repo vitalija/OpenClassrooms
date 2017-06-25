@@ -1,0 +1,7 @@
+Managing your code with Git and GitHub
+Part 2 Activity: Share a repository on GitHub
+
+My repository URL:
+
+
+https://github.com/vitalija/OpenClassrooms.git
